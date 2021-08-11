@@ -1,0 +1,19 @@
+{
+    "name": "jaderdias/facebook-bot-sdk",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chatbot\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jader Dias",
+            "email": "jader.dias@live.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
