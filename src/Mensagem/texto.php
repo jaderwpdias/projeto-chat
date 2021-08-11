@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Chatbot;
+namespace Chatbot\Mensagem;
 
 /**
  * Description of texto
