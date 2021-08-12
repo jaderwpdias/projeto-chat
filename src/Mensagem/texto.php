@@ -7,7 +7,7 @@ namespace Chatbot\Mensagem;
  *
  * @author jaderwillianpereiradias <jader.dias@live.com>
  */
-class texto {
+class texto implements mensagem {
     private $id;
 
     public function __construct(string $id){
