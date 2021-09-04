@@ -4,7 +4,7 @@ namespace Chatbot\Mensagem;
 
 use PHPUnit\Framework\TestCase;
 
-class textoTest extends TestCase {
+class TextoTest extends TestCase {
 
 	public function testRetornaArray(){
 		$actual = (new texto(1))->mensagem('oi');
